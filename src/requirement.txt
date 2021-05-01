@@ -1,0 +1,7 @@
+#Requirements
+
+For making this project you need two special module. Those are:
+1.pyshortners
+2.pyperclip
+
+Please, install those module by using pip command.
